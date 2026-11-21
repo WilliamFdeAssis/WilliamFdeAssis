@@ -31,13 +31,13 @@ Antes de ensinar, trabalhei como desenvolvedor Java com Spring Boot. Hoje levo e
 
 ## 📚 Materiais de aula
 
-Repositórios com conteúdo que uso e compartilho com minhas turmas:
+Todo o conteúdo que uso nas turmas fica na organização **[Professor-Will-Aulas](https://github.com/Professor-Will-Aulas)**, aberto para os alunos.
 
 | Material | Descrição |
 |---|---|
-| [DOM em Ação](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO) | Aula prática de DOM com HTML, CSS e JS, incluindo uma calculadora de IMC |
-| [Exercícios de Git para iniciantes](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO) | Exercícios guiados e guia de referência de Git e GitHub |
-| [Apostilas de JavaScript](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO) | Apostilas e exercícios práticos de JavaScript |
+| [DOM em Ação](https://github.com/Professor-Will-Aulas/NOME-DO-REPOSITORIO) | Aula prática de DOM com HTML, CSS e JS, incluindo uma calculadora de IMC |
+| [Exercícios de Git para iniciantes](https://github.com/Professor-Will-Aulas/NOME-DO-REPOSITORIO) | Exercícios guiados e guia de referência de Git e GitHub |
+| [Apostilas de JavaScript](https://github.com/Professor-Will-Aulas/NOME-DO-REPOSITORIO) | Apostilas e exercícios práticos de JavaScript |
 
 ## 🌱 Foco atual
 
