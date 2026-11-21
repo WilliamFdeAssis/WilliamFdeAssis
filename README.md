@@ -46,8 +46,8 @@ Repositórios com conteúdo que uso e compartilho com minhas turmas:
 
 ## 📫 Vamos conversar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL)
-- ✉️ seu-email@exemplo.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/williamfdeassis/)
+- ✉️ willifran@gmail.com
 
 ---
 
